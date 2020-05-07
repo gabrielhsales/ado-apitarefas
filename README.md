@@ -26,3 +26,9 @@ Run the following command to run startup migrations.
 ```js
 adonis migration:run
 ```
+
+# Adonis API application
+Projeto de api com adonis e mysql para praticar
+
+# Demo 
+https://ado-apitarefas.herokuapp.com/
